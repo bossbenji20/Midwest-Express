@@ -1,0 +1,10 @@
+{
+  "name": "midwest-express-netlify-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Midwest Express merchant portal for Netlify with Twilio SMS and proof-of-delivery workflow.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "twilio": "^5.5.3"
+  }
+}
